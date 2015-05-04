@@ -1,0 +1,34 @@
+{
+  "name": "ble_mini_node",
+  "version": "0.0.0",
+  "description": "node.js lib for the Readbear blemini",
+  "main": "index.js",
+  "scripts": {
+    "test": "jshint *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "todo"
+  },
+  "keywords": [
+    "redbear",
+    "blemini"
+  ],
+  "author": {
+    "name": "Lahorde"
+  },
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "todo",
+  "dependencies": {
+    "noble": "git://github.com/Lahorde/noble.git#dad6886016e5bff67f4ec388118ecf409dad35e6"
+  },
+  "devDependencies": {
+    "async": "~0.2.7",
+    "jshint": "~1.1.0"
+  },
+  "bugs": {
+    "url": "todo"
+  },
+  "homepage": "todo"
+}
